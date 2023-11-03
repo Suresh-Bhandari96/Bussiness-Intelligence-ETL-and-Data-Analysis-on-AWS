@@ -29,3 +29,7 @@
 
 📊 **Advanced Data Analytics**: Utilize AWS Glue and Athena to create powerful analytics tables for in-depth querying and exploration.
 
+
+
+![Spotify ETL flow diagram](https://github.com/Suresh-Bhandari96/Spotify-ETL-Pipeline/assets/127807350/fb45a35c-29ec-415e-ae7d-29d9da3516a9)
+
