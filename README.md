@@ -1,6 +1,6 @@
 # Spotify ETL Pipeline
 
-🚀 Welcome to the Spotify Data Pipeline project, an ETL (Extract, Transform, Load) pipeline that integrates with the Spotify API to extract, transform, and analyze valuable data, providing deep insights into user behavior and music preferences on Spotify.
+🚀 Welcome to the Bussiness Intelligence, ETL and Data Analysis on AWS (Spotify Data Pipeline) project, an ETL (Extract, Transform, Load) pipeline that integrates with the Spotify API to extract, transform, and analyze valuable data, providing deep insights into user behavior and music preferences on Spotify.
 
 ## TECH STACK
 
